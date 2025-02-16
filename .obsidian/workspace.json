@@ -181,6 +181,8 @@
   },
   "active": "fe126e837f471fef",
   "lastOpenFiles": [
+    "content/post/2025-02-16_周日-23-14/index.md",
+    "content/post/2025-02-16_周日-23-14",
     "content/post/2025-02-16_周日-22-58/index.md",
     "content/post/2025-02-16_周日-22-58",
     "content/post/hello-world/index.md",
@@ -194,7 +196,6 @@
     "themes/hugo-theme-stack/layouts/partials/head/opengraph/provider",
     "themes/hugo-theme-stack/layouts/partials/head/opengraph/include.html",
     "themes/hugo-theme-stack/layouts/partials/comments/provider/vssue.html",
-    "themes/hugo-theme-stack/layouts/partials/comments/provider/waline.html",
     "themes/hugo-theme-stack/images/tn.png",
     "themes/hugo-theme-stack/images/screenshot.png",
     "themes/hugo-theme-stack/exampleSite/content/page/search/index.md",
@@ -225,7 +226,6 @@
     "themes/hugo-theme-stack/archetypes/default.md",
     "themes/hugo-theme-stack/archetypes/categories.md",
     "themes/hugo-theme-stack/README.md",
-    "content/post/2025-02-16_周日-21-33/index.md",
-    "content/post/2025-02-16_周日-21-19/index.md"
+    "content/post/2025-02-16_周日-21-33/index.md"
   ]
 }
