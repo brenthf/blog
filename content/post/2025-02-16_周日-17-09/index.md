@@ -1,3 +1,15 @@
+---
+title: 2025 02 16_周日 17 09
+description: 
+date: 2025-02-16T19:53:58+08:00
+image: 
+math: 
+license: 
+hidden: false
+comments: false
+draft: false
+---
+
 ### RAG系统（Retrieval-Augmented Generation）博客
 
 RAG系统，即“检索增强生成系统”，是一种结合了信息检索与自然语言生成的先进技术。它的工作流程主要有两个步骤：
