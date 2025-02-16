@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/hello-world/index.md",
+                "file": "content/post/2025-02-16_周日-21-40/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf29edab384cf09e",
+  "active": "fe126e837f471fef",
   "lastOpenFiles": [
+    "content/post/hello-world/index.md",
     "content/post/2025-02-16_周日-22-34/index.md",
     "content/post/2025-02-16_周日-22-34",
     "content/post/2025-02-16_周日-21-40/index.md",
@@ -223,7 +224,6 @@
     "themes/hugo-theme-stack/archetypes/default.md",
     "themes/hugo-theme-stack/archetypes/categories.md",
     "themes/hugo-theme-stack/README.md",
-    "content/post/hello-world/index.md",
     "content/post/2025-02-16_周日-21-33/index.md",
     "content/post/2025-02-16_周日-21-19/index.md",
     "content/post/2025-02-16_周日-21-28/index.md"
