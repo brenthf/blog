@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe126e837f471fef",
+  "active": "cf29edab384cf09e",
   "lastOpenFiles": [
+    "content/post/2025-02-16_周日-22-34/index.md",
+    "content/post/2025-02-16_周日-22-34",
     "content/post/2025-02-16_周日-21-40/index.md",
     "themes/hugo-theme-stack/theme.toml",
     "themes/hugo-theme-stack/netlify.toml",
@@ -191,7 +193,6 @@
     "themes/hugo-theme-stack/layouts/partials/comments/provider/vssue.html",
     "themes/hugo-theme-stack/layouts/partials/comments/provider/waline.html",
     "themes/hugo-theme-stack/layouts/partials/comments/provider/utterances.html",
-    "themes/hugo-theme-stack/layouts/partials/comments/provider/twikoo.html",
     "themes/hugo-theme-stack/images/tn.png",
     "themes/hugo-theme-stack/images/screenshot.png",
     "themes/hugo-theme-stack/exampleSite/content/page/search/index.md",
