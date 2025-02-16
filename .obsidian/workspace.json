@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2025-02-16_周日-21-40/index.md",
+                "file": "content/post/hello-world/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,6 +181,7 @@
   },
   "active": "fe126e837f471fef",
   "lastOpenFiles": [
+    "content/post/2025-02-16_周日-21-40/index.md",
     "themes/hugo-theme-stack/theme.toml",
     "themes/hugo-theme-stack/netlify.toml",
     "themes/hugo-theme-stack/layouts/partials/head/opengraph/provider/twitter.html",
@@ -191,7 +192,6 @@
     "themes/hugo-theme-stack/layouts/partials/comments/provider/waline.html",
     "themes/hugo-theme-stack/layouts/partials/comments/provider/utterances.html",
     "themes/hugo-theme-stack/layouts/partials/comments/provider/twikoo.html",
-    "themes/hugo-theme-stack/layouts/partials/comments/provider/remark42.html",
     "themes/hugo-theme-stack/images/tn.png",
     "themes/hugo-theme-stack/images/screenshot.png",
     "themes/hugo-theme-stack/exampleSite/content/page/search/index.md",
@@ -223,7 +223,6 @@
     "themes/hugo-theme-stack/archetypes/categories.md",
     "themes/hugo-theme-stack/README.md",
     "content/post/hello-world/index.md",
-    "content/post/2025-02-16_周日-21-40/index.md",
     "content/post/2025-02-16_周日-21-33/index.md",
     "content/post/2025-02-16_周日-21-19/index.md",
     "content/post/2025-02-16_周日-21-28/index.md"
