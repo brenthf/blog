@@ -181,6 +181,7 @@
   },
   "active": "fe126e837f471fef",
   "lastOpenFiles": [
+    "go.sum",
     "content/post/2025-02-16_周日-23-14/index.md",
     "content/post/2025-02-16_周日-23-14",
     "content/post/2025-02-16_周日-22-58/index.md",
@@ -225,7 +226,6 @@
     "themes/hugo-theme-stack/archetypes/tags.md",
     "themes/hugo-theme-stack/archetypes/default.md",
     "themes/hugo-theme-stack/archetypes/categories.md",
-    "themes/hugo-theme-stack/README.md",
-    "content/post/2025-02-16_周日-21-33/index.md"
+    "themes/hugo-theme-stack/README.md"
   ]
 }
