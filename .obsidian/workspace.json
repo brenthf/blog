@@ -181,6 +181,8 @@
   },
   "active": "fe126e837f471fef",
   "lastOpenFiles": [
+    "assets/favicon.ico",
+    "assets/favicon.png",
     "content/post/2025-02-16_周日-22-58/index.md",
     "content/post/2025-02-16_周日-21-40/index.md",
     "go.sum",
@@ -216,7 +218,6 @@
     "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg",
     "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/helena-hertz-wWZzXlDpMog-unsplash.jpg",
     "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/florian-klauer-nptLmg6jqDo-unsplash.jpg",
-    "themes/hugo-theme-stack/exampleSite/content/post/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg",
     "themes/hugo-theme-stack/exampleSite/content/post/emoji-support/index.md",
     "themes/hugo-theme-stack/exampleSite/content/categories/Test/_index.md",
     "themes/hugo-theme-stack/exampleSite/content/_index.zh-cn.md",
