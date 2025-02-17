@@ -107,7 +107,7 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = ""
+serverURL = "https://waline-qhr87246e-brenthfs-projects.vercel.app"
 lang = ""
 visitor = ""
 avatar = ""
