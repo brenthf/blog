@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "408ae6ea8a7712f6",
+  "active": "0c5f800e7f70421d",
   "lastOpenFiles": [
+    "content/post/2025-02-18_周二-23-55/index.md",
+    "content/post/2025-02-18_周二-23-55",
     "content/post/2025-02-18_周二-22-27/index.md",
     "content/post/2025-02-18_周二-23-45/index.md",
     "content/post/2025-02-18_周二-23-45",
@@ -203,7 +205,6 @@
     "content/post/2025-02-16_周日-22-58/index.md",
     "content/post/2025-02-16_周日-21-40/index.md",
     "go.sum",
-    "content/post/2025-02-16_周日-23-14",
     "content/post/hello-world/index.md",
     "content/post/2025-02-16_周日-22-34/index.md",
     "themes/hugo-theme-stack/images/tn.png",
@@ -225,7 +226,6 @@
     "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/index.zh-cn.md",
     "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg",
     "themes/hugo-theme-stack/exampleSite/content/post/emoji-support/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/categories/Test/_index.md",
-    "themes/hugo-theme-stack/exampleSite/content/_index.zh-cn.md"
+    "themes/hugo-theme-stack/exampleSite/content/categories/Test/_index.md"
   ]
 }
