@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "adf1a3521d0183fd",
+        "id": "0ddc5cd6b696bbf9",
         "type": "tabs",
         "children": [
           {
-            "id": "fe126e837f471fef",
+            "id": "3d69c36559db053e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -175,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf29edab384cf09e",
+  "active": "3d69c36559db053e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "content/post/2025-02-18_周二-21-28/index.md",
     "content/post/2025-02-18_周二-22-27/index.md",
     "content/post/2025-02-18_周二-22-27",
     "content/post/2025-02-16_周日-23-14/index.md",
-    "content/post/2025-02-18_周二-21-28/index.md",
     "content/post/2025-02-18_周二-21-28",
     "content/post/2025-02-18_周二-21-25/index.md",
     "content/post/2025-02-18_周二-21-25",
@@ -221,7 +226,6 @@
     "themes/hugo-theme-stack/exampleSite/content/post/emoji-support/index.md",
     "themes/hugo-theme-stack/exampleSite/content/categories/Test/_index.md",
     "themes/hugo-theme-stack/exampleSite/content/_index.zh-cn.md",
-    "themes/hugo-theme-stack/exampleSite/content/_index.md",
-    "themes/hugo-theme-stack/exampleSite/README.md"
+    "themes/hugo-theme-stack/exampleSite/content/_index.md"
   ]
 }
