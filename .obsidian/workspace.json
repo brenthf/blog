@@ -11,10 +11,14 @@
             "id": "408ae6ea8a7712f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/post/2025-02-18_周二-22-27/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -177,11 +181,11 @@
   },
   "active": "408ae6ea8a7712f6",
   "lastOpenFiles": [
+    "content/post/2025-02-16_周日-23-14/index.md",
+    "content/post/2025-02-18_周二-22-27/index.md",
     "conflict-files-obsidian-git.md",
     "content/post/2025-02-18_周二-21-28/index.md",
-    "content/post/2025-02-18_周二-22-27/index.md",
     "content/post/2025-02-18_周二-22-27",
-    "content/post/2025-02-16_周日-23-14/index.md",
     "content/post/2025-02-18_周二-21-28",
     "content/post/2025-02-18_周二-21-25/index.md",
     "content/post/2025-02-18_周二-21-25",
