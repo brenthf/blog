@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2025-02-16_周日-23-14/index.md",
+                "file": "content/post/2025-02-18_周二-21-28/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -181,6 +181,11 @@
   },
   "active": "fe126e837f471fef",
   "lastOpenFiles": [
+    "content/post/2025-02-16_周日-23-14/index.md",
+    "content/post/2025-02-18_周二-21-28/index.md",
+    "content/post/2025-02-18_周二-21-28",
+    "content/post/2025-02-18_周二-21-25/index.md",
+    "content/post/2025-02-18_周二-21-25",
     "content/post/2025-02-18_周二-21-00/index.md",
     "content/post/2025-02-18_周二-21-00",
     "content/post/2025-02-18_周二-20-44/index.md",
@@ -193,14 +198,11 @@
     "content/post/2025-02-16_周日-22-58/index.md",
     "content/post/2025-02-16_周日-21-40/index.md",
     "go.sum",
-    "content/post/2025-02-16_周日-23-14/index.md",
     "content/post/2025-02-16_周日-23-14",
     "content/post/2025-02-16_周日-22-58",
     "content/post/hello-world/index.md",
     "content/post/2025-02-16_周日-22-34/index.md",
     "content/post/2025-02-16_周日-22-34",
-    "themes/hugo-theme-stack/theme.toml",
-    "themes/hugo-theme-stack/netlify.toml",
     "themes/hugo-theme-stack/images/tn.png",
     "themes/hugo-theme-stack/images/screenshot.png",
     "themes/hugo-theme-stack/exampleSite/content/page/search/index.md",
@@ -224,8 +226,6 @@
     "themes/hugo-theme-stack/exampleSite/content/_index.zh-cn.md",
     "themes/hugo-theme-stack/exampleSite/content/_index.md",
     "themes/hugo-theme-stack/exampleSite/README.md",
-    "themes/hugo-theme-stack/archetypes/tags.md",
-    "themes/hugo-theme-stack/archetypes/default.md",
-    "themes/hugo-theme-stack/archetypes/categories.md"
+    "themes/hugo-theme-stack/archetypes/tags.md"
   ]
 }
