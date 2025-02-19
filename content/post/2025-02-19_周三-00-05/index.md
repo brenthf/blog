@@ -6,7 +6,8 @@ image: 儿童近视成因.png
 hidden: false
 comments: false
 draft: false
-categories: 
+categories:
+  - AI 生成
 tags:
 ---
 
