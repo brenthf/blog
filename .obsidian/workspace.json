@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/儿童近视成因/儿童近视成因.md",
+                "file": "content/post/小学生语文学习路径/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "儿童近视成因"
+              "title": "index"
             }
           }
         ]
@@ -40,8 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf29edab384cf09e",
+  "active": "408ae6ea8a7712f6",
   "lastOpenFiles": [
+    "content/post/儿童近视成因/儿童近视成因.md",
+    "content/post/儿童近视成因/儿童近视成因.png",
     "content/post/小学生语文学习路径/index.md",
     "content/post/fpl游戏与英超/fpl游戏与英超.md",
     "content/post/fpl游戏与英超/fpl游戏与英超.png",
@@ -191,8 +193,6 @@
     "content/post/fpl游戏与英超联赛/fpl游戏与英超联赛.png",
     "content/post/fpl游戏与英超联赛",
     "content/post/fpl游戏与英超",
-    "content/post/儿童近视成因/儿童近视成因.md",
-    "content/post/儿童近视成因/儿童近视成因.png",
     "content/post/儿童近视成因",
     "content/post/2025-02-19_周三-00-05/儿童近视成因.png",
     "content/post/2025-02-18_周二-23-45/index.md",
@@ -225,7 +225,6 @@
     "themes/hugo-theme-stack/exampleSite/content/page/links/index.md",
     "themes/hugo-theme-stack/exampleSite/content/page/archives/index.md",
     "themes/hugo-theme-stack/exampleSite/content/page/about/index.zh-cn.md",
-    "themes/hugo-theme-stack/exampleSite/content/page/about/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/post/rich-content/index.md"
+    "themes/hugo-theme-stack/exampleSite/content/page/about/index.md"
   ]
 }
