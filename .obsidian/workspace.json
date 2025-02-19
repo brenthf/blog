@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2025-02-18_周二-23-45/index.md",
+                "file": "content/categories/example-category/_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "_index"
             }
           }
         ]
@@ -181,11 +181,13 @@
   },
   "active": "408ae6ea8a7712f6",
   "lastOpenFiles": [
-    "content/post/2025-02-19_周三-00-05/儿童近视成因.png",
-    "content/post/2025-02-18_周二-23-55/index.md",
     "content/post/2025-02-19_周三-00-05/index.md",
-    "content/post/2025-02-19_周三-00-05",
+    "content/post/2025-02-19_周三-00-05/儿童近视成因.png",
+    "content/post/2025-02-16_周日-21-40/index.md",
+    "content/categories/example-category/_index.md",
     "content/post/2025-02-18_周二-23-45/index.md",
+    "content/post/2025-02-18_周二-23-55/index.md",
+    "content/post/2025-02-19_周三-00-05",
     "content/post/2025-02-18_周二-23-55",
     "content/post/2025-02-18_周二-22-27/index.md",
     "content/post/2025-02-18_周二-23-45",
@@ -206,7 +208,6 @@
     "assets/favicon.ico",
     "assets/favicon.png",
     "content/post/2025-02-16_周日-22-58/index.md",
-    "content/post/2025-02-16_周日-21-40/index.md",
     "content/post/hello-world/index.md",
     "content/post/2025-02-16_周日-22-34/index.md",
     "themes/hugo-theme-stack/images/tn.png",
@@ -224,8 +225,6 @@
     "themes/hugo-theme-stack/exampleSite/content/post/placeholder-text/index.ar.md",
     "themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg",
     "themes/hugo-theme-stack/exampleSite/content/post/markdown-syntax/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/luca-bravo-alS7ewQ41M8-unsplash.jpg",
-    "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/index.zh-cn.md",
-    "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
+    "themes/hugo-theme-stack/exampleSite/content/post/chinese-test/luca-bravo-alS7ewQ41M8-unsplash.jpg"
   ]
 }
