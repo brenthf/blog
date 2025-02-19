@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/2025-02-19_周三-00-05/index.md",
-                "mode": "preview",
+                "file": "content/post/儿童近视成因/儿童近视成因.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "儿童近视成因"
             }
           }
         ]
@@ -179,15 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c5f800e7f70421d",
+  "active": "cf29edab384cf09e",
   "lastOpenFiles": [
+    "content/post/小学生语文学习路径/index.md",
+    "content/post/fpl游戏与英超/fpl游戏与英超.md",
+    "content/post/fpl游戏与英超/fpl游戏与英超.png",
+    "content/post/2025-02-19_周三-00-05/index.md",
     "content/post/小学生语文学习路径/小学生语文学习路径.png",
     "content/post/小学生语文学习路径",
     "content/post/fpl游戏与英超联赛/index.md",
     "content/post/fpl游戏与英超联赛/fpl游戏与英超联赛.png",
     "content/post/fpl游戏与英超联赛",
-    "content/post/fpl游戏与英超/fpl游戏与英超.md",
-    "content/post/fpl游戏与英超/fpl游戏与英超.png",
     "content/post/fpl游戏与英超",
     "content/post/儿童近视成因/儿童近视成因.md",
     "content/post/儿童近视成因/儿童近视成因.png",
@@ -195,7 +197,6 @@
     "content/post/2025-02-19_周三-00-05/儿童近视成因.png",
     "content/post/2025-02-18_周二-23-45/index.md",
     "content/post/2025-02-18_周二-23-55/index.md",
-    "content/post/2025-02-19_周三-00-05/index.md",
     "content/categories/example-category/_index.md",
     "content/categories/AI 生成/_index.md",
     "content/categories/AI 生成",
@@ -221,7 +222,6 @@
     "themes/hugo-theme-stack/images/tn.png",
     "themes/hugo-theme-stack/images/screenshot.png",
     "themes/hugo-theme-stack/exampleSite/content/page/search/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/page/links/ts-logo-128.jpg",
     "themes/hugo-theme-stack/exampleSite/content/page/links/index.md",
     "themes/hugo-theme-stack/exampleSite/content/page/archives/index.md",
     "themes/hugo-theme-stack/exampleSite/content/page/about/index.zh-cn.md",
