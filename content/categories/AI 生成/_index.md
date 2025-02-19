@@ -1,5 +1,5 @@
 ---
-title: Category
+title: AI 生成
 description: A description of this category
 image:
 
