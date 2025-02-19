@@ -4,7 +4,7 @@ description: 本文探索了Obsidian这一强大的知识管理工具，它如�
 date: 2025-02-16T23:12:56.071+08:00
 hidden: false
 comments: false
-draft: false
+draft: true
 ---
 
 # 探索Obsidian：你的知识管理利器
