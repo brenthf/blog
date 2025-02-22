@@ -11,14 +11,14 @@
             "id": "408ae6ea8a7712f6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "themes/hugo-theme-stack",
-                "bFile": "themes/hugo-theme-stack",
-                "aRef": ""
+                "file": "content/post/小学生语文学习路径/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: hugo-theme-stack"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
