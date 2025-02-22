@@ -11,10 +11,14 @@
             "id": "408ae6ea8a7712f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/post/FPL游戏入门/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -175,8 +179,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf29edab384cf09e",
+  "active": "408ae6ea8a7712f6",
   "lastOpenFiles": [
+    "content/post/AI大模型和个人知识库的结合/AI大模型和个人知识库的结合.png",
     "content/post/AI大模型和个人知识库的结合/index.md",
     "content/post/FPL游戏入门/index.md",
     "content/post/FPL游戏入门/FPL游戏入门.png",
@@ -221,7 +226,6 @@
     "themes/hugo-theme-stack/images/tn.png",
     "themes/hugo-theme-stack/exampleSite/content/page/search/index.md",
     "themes/hugo-theme-stack/exampleSite/content/page/links/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/page/archives/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/page/about/index.zh-cn.md"
+    "themes/hugo-theme-stack/exampleSite/content/page/archives/index.md"
   ]
 }

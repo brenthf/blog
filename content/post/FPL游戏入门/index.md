@@ -6,7 +6,7 @@ categories:
   - 足球, 游戏
 image: FPL游戏入门.png
 hidden: false
-comments: true
+comments: false
 draft: false
 ---
 
