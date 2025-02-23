@@ -11,12 +11,14 @@
             "id": "408ae6ea8a7712f6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "content/post/Sugar and Happiness Exploring the Sweet but Complex Connection/Sugar and Happiness Exploring the Sweet but Complex Connection.png"
+                "file": "content/post/Sugar and Happiness Exploring the Sweet but Complex Connection/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Sugar and Happiness Exploring the Sweet but Complex Connection"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -179,11 +181,11 @@
   },
   "active": "408ae6ea8a7712f6",
   "lastOpenFiles": [
+    "content/post/Sugar and Happiness Exploring the Sweet but Complex Connection/Sugar and Happiness Exploring the Sweet but Complex Connection.png",
     "content/post/Sugar and Happiness Exploring the Sweet but Complex Connection/index.md",
     "content/post/FPL游戏入门/index.md",
     "content/post/fpl游戏与英超联赛/index.md",
     "content/post/fpl游戏与英超/fpl游戏与英超.md",
-    "content/post/Sugar and Happiness Exploring the Sweet but Complex Connection/Sugar and Happiness Exploring the Sweet but Complex Connection.png",
     "content/post/Sugar and Happiness Exploring the Sweet but Complex Connection",
     "content/post/小学生语文学习路径/index.md",
     "content/post/How Agentic AI Automation Is Transforming Workflow Management.png",
@@ -223,7 +225,6 @@
     "content/post/hello-world/index.md",
     "content/post/2025-02-16_周日-22-34/index.md",
     "themes/hugo-theme-stack/exampleSite/content/page/search/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/page/links/index.md",
-    "themes/hugo-theme-stack/exampleSite/content/page/archives/index.md"
+    "themes/hugo-theme-stack/exampleSite/content/page/links/index.md"
   ]
 }

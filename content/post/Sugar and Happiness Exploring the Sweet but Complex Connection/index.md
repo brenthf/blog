@@ -1,12 +1,12 @@
 ---
-title: 糖与幸福感：探索甜蜜却复杂的联系  
-description: 糖分摄入带来的即时愉悦感往往伴随着情绪冲突和长期健康风险。本文深入探讨糖对幸福感的影响，并提供平衡与改善的方法。  
-date: 2025-02-23T16:44:14.832+08:00  
-categories: 健康生活, 心理健康, 饮食指南  
-image: Sugar and Happiness: Exploring the Sweet but Complex Connection.png  
-hidden: false  
-comments: false  
-draft: false  
+title: 糖与幸福感：探索甜蜜却复杂的联系
+description: 糖分摄入带来的即时愉悦感往往伴随着情绪冲突和长期健康风险。本文深入探讨糖对幸福感的影响，并提供平衡与改善的方法。
+date: 2025-02-23T16:44:14.832+08:00
+categories:
+  - 健康生活, 心理健康, 饮食指南
+image: Sugar and Happiness Exploring the Sweet but Complex Connection.png
+hidden: false
+comments: false
 ---
 
 ## 关键要点  
