@@ -2,11 +2,12 @@
 title: FPL游戏入门指南
 description: 本文为新手玩家提供FPL游戏的基本介绍与入门指南，帮助你轻松上手。了解游戏玩法、核心机制和一些小技巧，让你在FPL中取得优异成绩。
 date: 2025-02-22T18:55:09.645+08:00
-categories: []
+categories: 
 image: FPL游戏入门.png
 hidden: false
 comments: false
 draft: false
+tags:
 ---
 
 ## 概述
