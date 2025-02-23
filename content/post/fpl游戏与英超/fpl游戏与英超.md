@@ -3,7 +3,7 @@ title: FPL游戏与英超联赛的深度关系研究
 description: 本研究旨在探讨FPL（Fantasy Premier League）游戏与英超联赛之间的深度关系，分析两者之间的互动机制、用户参与模式以及对球迷行为和足球产业的影响。
 date: 2025-02-19T15:27:06.049+08:00
 categories:
-  - AI 生成
+  - FPL
 image: fpl游戏与英超.png
 hidden: false
 comments: false
