@@ -2,12 +2,12 @@
 title: 小学生语文学习目标与路径：从应试到素质的全面指南
 description: 本文阐述了小学生语文学习的短期与长期目标，并从应试技巧与素质教育的平衡入手，详细解读了不同阶段的学习路径与实践方案，帮助家长构建高效的学习策略。
 date: 2025-02-23T18:00:02.949+08:00
-categories: []
+categories: 
 tags: 
 image: 小学生语文学习路径.png
 hidden: false
 comments: false
-draft: false
+draft: true
 ---
 
 ## Key Takeaways
