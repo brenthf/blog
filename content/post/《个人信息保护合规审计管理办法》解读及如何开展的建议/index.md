@@ -7,7 +7,7 @@ tags:
 image: 《个人信息保护合规审计管理办法》解读及如何开展的建议.png
 hidden: false
 comments: false
-draft: true
+draft: false
 ---
 
 ## Key Takeaways
