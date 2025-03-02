@@ -2,7 +2,8 @@
 title: 小学生语文学习路径的理论框架与实践策略
 description: 本研究报告探讨了小学生语文学习的理论框架和实践策略，基于SREM理论及核心素养导向，提出阶段性学习路径及有效的教学实践案例，以期帮助学生有效提升语文能力和综合素养。
 date: 2025-02-19T17:00:12.760+08:00
-categories: []
+categories:
+  - AI 生成
 image: 小学生语文学习路径.png
 hidden: false
 comments: false
