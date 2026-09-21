@@ -30,23 +30,11 @@
                 "currentVersion": "1.8.9"
               },
               "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "af007a337c20abc4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.8.10"
+              "title": "版本说明 1.8.9"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af007a337c20abc4",
+  "active": "cf29edab384cf09e",
   "lastOpenFiles": [
     "content/post/AI与自我提高/AI与自我提高.png",
     "content/post/How sugar changes happiness levels/index.md",
