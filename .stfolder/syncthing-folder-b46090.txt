@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: wpas7-hpvjc
+created: 2026-09-21T22:48:47+08:00
