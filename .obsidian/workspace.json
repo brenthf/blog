@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/儿童近视成因/儿童近视成因.md",
+                "file": "content/post/新赛季英超展望/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "儿童近视成因"
+              "title": "index"
             }
           }
         ]
@@ -182,12 +182,12 @@
   },
   "active": "408ae6ea8a7712f6",
   "lastOpenFiles": [
+    "content/post/新赛季英超展望/新赛季英超展望.png",
+    "content/post/新赛季英超展望/index.md",
+    "content/post/儿童近视成因/儿童近视成因.md",
     "content/post/新赛季英超展望/index.sync-conflict-20260921-231931-5DUAMT2.md",
     "content/post/AI与自我提高/index.md",
     "content/post/《个人信息保护合规审计管理办法》解读及如何开展的建议/index.md",
-    "content/post/儿童近视成因/儿童近视成因.md",
-    "content/post/新赛季英超展望/index.md",
-    "content/post/新赛季英超展望/新赛季英超展望.png",
     "content/post/AI与自我提高/AI与自我提高.png",
     "content/post/How sugar changes happiness levels/index.md",
     "content/post/新赛季英超展望/新赛季英超展望.md",
@@ -226,7 +226,6 @@
     "content/post/2025-02-16_周日-22-58/index.md",
     "content/post/2025-02-16_周日-21-40/index.md",
     "content/post/2025-02-19_周三-00-05/index.md",
-    "content/categories/example-category/_index.md",
-    "content/categories/AI 生成/_index.md"
+    "content/categories/example-category/_index.md"
   ]
 }
