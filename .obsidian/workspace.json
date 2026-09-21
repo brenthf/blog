@@ -11,14 +11,12 @@
             "id": "408ae6ea8a7712f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/post/儿童近视成因/儿童近视成因.md",
-                "mode": "source",
-                "source": false
+                "file": "content/post/新赛季英超展望/新赛季英超展望.png"
               },
-              "icon": "lucide-file",
-              "title": "儿童近视成因"
+              "icon": "lucide-image",
+              "title": "新赛季英超展望"
             }
           }
         ]
@@ -182,6 +180,7 @@
   },
   "active": "408ae6ea8a7712f6",
   "lastOpenFiles": [
+    "content/post/儿童近视成因/儿童近视成因.md",
     "content/post/新赛季英超展望/index.md",
     "content/post/新赛季英超展望/新赛季英超展望.png",
     "content/post/AI与自我提高/index.md",
@@ -202,7 +201,6 @@
     "content/post/《个人信息保护合规审计管理办法》解读及如何开展的建议/《个人信息保护合规审计管理办法》解读及如何开展的建议.png",
     "content/post/《个人信息保护合规审计管理办法》解读及如何开展的建议2/《个人信息保护合规审计管理办法》解读及如何开展的建议2.png",
     "content/post/《个人信息保护合规审计管理办法》解读及如何开展的建议2",
-    "content/post/儿童近视成因/儿童近视成因.md",
     "content/post/fpl游戏与英超/fpl游戏与英超.md",
     "content/post/fpl游戏与英超联赛/index.md",
     "content/post/黄赤夹角与地球生命/index.md",
