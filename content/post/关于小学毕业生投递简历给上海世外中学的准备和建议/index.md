@@ -6,7 +6,7 @@ categories: AI 生成
 image: 关于小学毕业生投递简历给上海世外中学的准备和建议.png
 hidden: false
 comments: false
-draft: false
+draft: true
 ---
 
 # 关于小学毕业生准备上海世外中学小升初材料的分析与建议
