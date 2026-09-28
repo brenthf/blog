@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "ae5617fb88eb4b09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -180,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "408ae6ea8a7712f6",
+  "active": "ae5617fb88eb4b09",
   "lastOpenFiles": [
     "content/post/新赛季英超展望/index.md",
     "content/post/关于小学毕业生投递简历给上海世外中学的准备和建议/index.md",
