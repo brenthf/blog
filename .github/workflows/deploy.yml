@@ -39,6 +39,18 @@ jobs:
                   hugo-version: "latest"
                   extended: true
 
+            # Hugo v0.170.0 dropped LibSass and the extended edition, so SCSS
+            # (hugo-theme-stack) now needs Dart Sass on PATH.
+            - name: Setup Dart Sass
+              env:
+                  DART_SASS_VERSION: 1.108.2
+              run: |
+                  curl -fsSL -o /tmp/dart-sass.tar.gz \
+                    "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+                  sudo tar -xzf /tmp/dart-sass.tar.gz -C /opt
+                  sudo ln -sf /opt/dart-sass/sass /usr/local/bin/sass
+                  sass --version
+
             - name: Build
               run: hugo --minify --gc
 
